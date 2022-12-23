@@ -2,9 +2,9 @@ namespace PuzzleGreedyAlgorithm.src.models
 {
     class Card : Coordinates
     {
-        public int Value { get; private set; }
+        public char Value { get; private set; }
 
-        public Card((int, int) coords, int value = 0) : base(coords)
+        public Card((int, int) coords, char value = 'n') : base(coords)
         {
             Value = value;
         }

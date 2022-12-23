@@ -6,11 +6,16 @@ namespace PuzzleGreedyAlgorithm.src.logic
     {
         public Grid PuzzleGrid { get; set; } = null!;
 
-        public GreedyAlgorithm((List<int>, List<int>) grids, (int width, int height) dims)
+        public GreedyAlgorithm((List<char>, List<char>) grids, (int width, int height) dims)
         {
             PuzzleGrid = new Grid(dims.width, dims.height);
 
             PuzzleGrid.GenerateInitialCards(grids);
+        }
+
+        public void PerformAlgorithm()
+        {
+            
         }
     }
 }

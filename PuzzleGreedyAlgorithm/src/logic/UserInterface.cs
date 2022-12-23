@@ -1,3 +1,5 @@
+using PuzzleGreedyAlgorithm.src.models;
+
 namespace PuzzleGreedyAlgorithm.src.logic
 {
     static class UserInterface
@@ -23,6 +25,18 @@ namespace PuzzleGreedyAlgorithm.src.logic
                     default:
                         Console.WriteLine("Invalid input."); continue;
                 }
+            }
+        }
+
+        public static void GridOutput(Card[,] grid)
+        {
+            for (int y = 0; y < grid.GetLength(0); y++)
+            {
+                for (int x = 0; x < grid.GetLength(1); x++)
+                {
+                    Console.Write(grid[y, x].Value + " ");
+                }
+                Console.WriteLine();
             }
         }
     }

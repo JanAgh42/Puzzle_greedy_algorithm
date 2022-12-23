@@ -4,7 +4,7 @@ namespace PuzzleGreedyAlgorithm.src.logic
     {
         private static readonly Random _random = new Random();
 
-        public static ((List<int>, List<int>), (int, int)) LoadGrids(string filename)
+        public static ((List<char>, List<char>), (int, int)) LoadGrids(string filename)
         {
             var lines = System.IO.File.ReadLines(@"./src/inputs/" + filename + ".txt").ToList();
 
@@ -13,8 +13,8 @@ namespace PuzzleGreedyAlgorithm.src.logic
             var tokens = lines[chosenInput].Split("_");
             var dims = filename.Split("x");
 
-            var initialGrid = tokens.First().Select(pos => Convert.ToInt32(pos.ToString())).ToList();
-            var finalGrid = tokens.Last().Select(pos => Convert.ToInt32(pos.ToString())).ToList();
+            var initialGrid = tokens.First().Select(pos => pos).ToList();
+            var finalGrid = tokens.Last().Select(pos => pos).ToList();
             var gridDimensions = (Convert.ToInt32(dims.First()), Convert.ToInt32(dims.Last()));
 
             return ((initialGrid, finalGrid), gridDimensions);

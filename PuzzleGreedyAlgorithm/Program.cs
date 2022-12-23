@@ -17,6 +17,7 @@ namespace PuzzleGreedyAlgorithm
 
                 var algorithm = new GreedyAlgorithm(loadedGrids.Item1, loadedGrids.Item2);
 
+                algorithm.PerformAlgorithm();
             } while (true);
         }
     }
