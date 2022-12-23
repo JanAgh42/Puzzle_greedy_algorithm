@@ -14,7 +14,7 @@ namespace PuzzleGreedyAlgorithm.src.models
             Height = height;
         }
 
-        public void GenerateInitialCards()
+        public void GenerateInitialCards((List<int> initial, List<int> final) grids)
         {
             
         }

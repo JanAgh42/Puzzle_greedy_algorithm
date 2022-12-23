@@ -4,7 +4,7 @@ namespace PuzzleGreedyAlgorithm.src.models
     {
         public int Value { get; private set; }
 
-        public Card((int, int) coords, int value = -1) : base(coords)
+        public Card((int, int) coords, int value = 0) : base(coords)
         {
             Value = value;
         }

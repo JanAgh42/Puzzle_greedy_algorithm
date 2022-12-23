@@ -6,9 +6,18 @@ namespace PuzzleGreedyAlgorithm
     {
         static void Main(string[] args)
         {
-            var inputs = InputLoader.LoadGrids("3x3");
+            do
+            {
+                var choice = UserInterface.GetInitialInput();
 
-            Console.WriteLine(inputs.Item1[1] + " " + inputs.Item2[1]);
+                if (choice == "0") {
+                    break;
+                }
+                var loadedGrids = InputLoader.LoadGrids(choice);
+
+                var algorithm = new GreedyAlgorithm(loadedGrids.Item1, loadedGrids.Item2);
+
+            } while (true);
         }
     }
 }
