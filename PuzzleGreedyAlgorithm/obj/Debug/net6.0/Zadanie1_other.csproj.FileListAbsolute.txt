@@ -1,0 +1,15 @@
+C:\Users\every\Desktop\Books\Projects\school\UI\Zadanie1_other\PuzzleGreedyAlgorithm\bin\Debug\net6.0\Zadanie1_other.exe
+C:\Users\every\Desktop\Books\Projects\school\UI\Zadanie1_other\PuzzleGreedyAlgorithm\bin\Debug\net6.0\Zadanie1_other.deps.json
+C:\Users\every\Desktop\Books\Projects\school\UI\Zadanie1_other\PuzzleGreedyAlgorithm\bin\Debug\net6.0\Zadanie1_other.runtimeconfig.json
+C:\Users\every\Desktop\Books\Projects\school\UI\Zadanie1_other\PuzzleGreedyAlgorithm\bin\Debug\net6.0\Zadanie1_other.dll
+C:\Users\every\Desktop\Books\Projects\school\UI\Zadanie1_other\PuzzleGreedyAlgorithm\bin\Debug\net6.0\Zadanie1_other.pdb
+C:\Users\every\Desktop\Books\Projects\school\UI\Zadanie1_other\PuzzleGreedyAlgorithm\obj\Debug\net6.0\Zadanie1_other.csproj.AssemblyReference.cache
+C:\Users\every\Desktop\Books\Projects\school\UI\Zadanie1_other\PuzzleGreedyAlgorithm\obj\Debug\net6.0\Zadanie1_other.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\every\Desktop\Books\Projects\school\UI\Zadanie1_other\PuzzleGreedyAlgorithm\obj\Debug\net6.0\Zadanie1_other.AssemblyInfoInputs.cache
+C:\Users\every\Desktop\Books\Projects\school\UI\Zadanie1_other\PuzzleGreedyAlgorithm\obj\Debug\net6.0\Zadanie1_other.AssemblyInfo.cs
+C:\Users\every\Desktop\Books\Projects\school\UI\Zadanie1_other\PuzzleGreedyAlgorithm\obj\Debug\net6.0\Zadanie1_other.csproj.CoreCompileInputs.cache
+C:\Users\every\Desktop\Books\Projects\school\UI\Zadanie1_other\PuzzleGreedyAlgorithm\obj\Debug\net6.0\Zadanie1_other.dll
+C:\Users\every\Desktop\Books\Projects\school\UI\Zadanie1_other\PuzzleGreedyAlgorithm\obj\Debug\net6.0\refint\Zadanie1_other.dll
+C:\Users\every\Desktop\Books\Projects\school\UI\Zadanie1_other\PuzzleGreedyAlgorithm\obj\Debug\net6.0\Zadanie1_other.pdb
+C:\Users\every\Desktop\Books\Projects\school\UI\Zadanie1_other\PuzzleGreedyAlgorithm\obj\Debug\net6.0\Zadanie1_other.genruntimeconfig.cache
+C:\Users\every\Desktop\Books\Projects\school\UI\Zadanie1_other\PuzzleGreedyAlgorithm\obj\Debug\net6.0\ref\Zadanie1_other.dll

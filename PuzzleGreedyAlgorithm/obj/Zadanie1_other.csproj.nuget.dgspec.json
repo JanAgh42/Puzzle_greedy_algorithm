@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\every\\Desktop\\Books\\Projects\\school\\UI\\Zadanie1_other\\Zadanie1_other.csproj": {}
+    "C:\\Users\\every\\Desktop\\Books\\Projects\\school\\UI\\Zadanie1_other\\PuzzleGreedyAlgorithm\\Zadanie1_other.csproj": {}
   },
   "projects": {
-    "C:\\Users\\every\\Desktop\\Books\\Projects\\school\\UI\\Zadanie1_other\\Zadanie1_other.csproj": {
+    "C:\\Users\\every\\Desktop\\Books\\Projects\\school\\UI\\Zadanie1_other\\PuzzleGreedyAlgorithm\\Zadanie1_other.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\every\\Desktop\\Books\\Projects\\school\\UI\\Zadanie1_other\\Zadanie1_other.csproj",
+        "projectUniqueName": "C:\\Users\\every\\Desktop\\Books\\Projects\\school\\UI\\Zadanie1_other\\PuzzleGreedyAlgorithm\\Zadanie1_other.csproj",
         "projectName": "Zadanie1_other",
-        "projectPath": "C:\\Users\\every\\Desktop\\Books\\Projects\\school\\UI\\Zadanie1_other\\Zadanie1_other.csproj",
+        "projectPath": "C:\\Users\\every\\Desktop\\Books\\Projects\\school\\UI\\Zadanie1_other\\PuzzleGreedyAlgorithm\\Zadanie1_other.csproj",
         "packagesPath": "C:\\Users\\every\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\every\\Desktop\\Books\\Projects\\school\\UI\\Zadanie1_other\\obj\\",
+        "outputPath": "C:\\Users\\every\\Desktop\\Books\\Projects\\school\\UI\\Zadanie1_other\\PuzzleGreedyAlgorithm\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\every\\AppData\\Roaming\\NuGet\\NuGet.Config"
