@@ -17,7 +17,13 @@ namespace PuzzleGreedyAlgorithm
 
                 var algorithm = new GreedyAlgorithm(loadedGrids.Item1, loadedGrids.Item2);
 
+                Console.WriteLine("Starting grid: ");
+                UserInterface.GridOutput(loadedGrids.Item1.Item1, loadedGrids.Item2.Item1);
+
                 algorithm.PerformAlgorithm();
+
+                Console.WriteLine("Final grid: ");
+                UserInterface.GridOutput(loadedGrids.Item1.Item2, loadedGrids.Item2.Item1);
             } while (true);
         }
     }
