@@ -1,0 +1,3 @@
+The task of the program is to find a solution to the puzzle. The puzzle consists of 8 numbered squares and one empty space. Squares can be moved up, down, left or right, but only if there is an empty space in that direction. There is always a starting point and a target position, and it is necessary to find a sequence of steps that lead from one position to another.
+
+To find a solution, the program uses additional information about the solved problem, more precisely the sum of the distances of individual fields from their target position, based on which it can find and expand the most optimal local solution and generate new candidate solutions until it runs out of options (the solution does not exist) or manages to find the target position.
